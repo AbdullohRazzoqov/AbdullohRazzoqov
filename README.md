@@ -52,8 +52,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-  <br>
-  <br>
+ 
+ 
   <br>
 <p align="center">
 <p align="center">
@@ -65,15 +65,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
   
   
-  
-  
+ 
+ 
   <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-
 
 ------
 
