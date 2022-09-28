@@ -29,8 +29,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ## ⚡ Technologies
 <br/>
-<br/>
-
 
 ![Image](https://img.shields.io/badge/Flutter-0078D4.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![Image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
