@@ -16,12 +16,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="337" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300" />
 
 <br/>
 
 - I'm flutter developer from Uzbekistan 🇺🇿</h3>
-
 - 🔭 I’m currently working on My project
 - 🌱 I’m currently learning Flutter and Node js backend
 - 👯 I’m looking to collaborate on Flutter project
@@ -69,11 +68,13 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
   
+  <br>
  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+  <br>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
 
   
 
