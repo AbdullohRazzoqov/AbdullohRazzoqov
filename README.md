@@ -68,14 +68,23 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
   
-  <br>
+
+
+<br>
+<br>
  
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
 
 
+<br>
+<br>
+
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
 
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -88,6 +97,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 ## GitHub Profile Trophy 🏆
 
-<h1 align="left"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="ShokhjakhonRazokov" />
+<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="ShokhjakhonRazokov" />
  </h1>
 
