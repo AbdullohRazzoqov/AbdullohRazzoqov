@@ -64,9 +64,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
                                   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
    <br>
+<img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
  
-![github stats](https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical)
-![github stats](https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark)
+
 
 ------
 
