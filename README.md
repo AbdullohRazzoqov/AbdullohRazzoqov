@@ -1,10 +1,7 @@
-<h1 align="center">I'm Shohjahon - Flutter Developer </h1>
+
+<img src="https://github.com/ShokhjakhonRazokov/ShokhjakhonRazokov/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" height="280" />
-<br/>
-
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <br/>
@@ -12,20 +9,30 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Telegram Badge](https://img.shields.io/badge/Shohjahon-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abdulloh2939)](https://t.me/abdulloh2939) 
 [![Instagram Badge](https://img.shields.io/badge/-@razokov___-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/razokov___/)](https://www.instagram.com/razokov___/)
-<br/>
-<br/>
+
 <br/>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="340" />
+<br/>
+
 - I'm flutter developer from Uzbekistan 🇺🇿</h3>
 
-- 🌱 I’m currently learning Flutter,Dart,Firebase
+- 🔭 I’m currently working on My project
 
-- 💬 Ask me about Flutter,Dart
+- 🌱 I’m currently learning Flutter and Node js backend
 
-- ⚡️ Fun fact I'm 21, but Everyone thinks that I'm 24
+- 👯 I’m looking to collaborate on Flutter project
 
+- 💬 Ask me about Flutter
+
+- 📫 How to reach me: 
+- 😄 Pronouns: …
+
+- ⚡ Fun fact: I'm 21, but Everyone thinks that I'm 23
+
+<br/>
 
 ## ⚡ Technologies
 <br/>
@@ -57,15 +64,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <p align="center">
                                   
   
-  ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=ShokhjakhonRazokov)
- 
-  
-  
-  
-  
- 
- 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical)
   <br>
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" width="48%" >
 
 ------
 
