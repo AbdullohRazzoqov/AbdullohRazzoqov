@@ -14,7 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <br/>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h1 align="left">👨🏻‍💻 About Me:</h1>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="280" />
 
@@ -76,5 +76,18 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
   
+## GitHub Profile Trophy 🏆
+
+<h1 align="left"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="ShokhjakhonRazokov" />
+ </h1>
 
