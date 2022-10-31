@@ -14,7 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="340" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="550" height="340" />
 <br/>
 
 - I'm flutter developer from Uzbekistan 🇺🇿</h3>
@@ -63,9 +63,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
                                   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
-   <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
+ 
+ <br>
+ 
+<img  src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
  
 
 
