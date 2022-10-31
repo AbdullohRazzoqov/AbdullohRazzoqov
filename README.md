@@ -57,12 +57,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
  
   <br>
-  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
- 
- <br>
- 
-<img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" width="450" height="400"  alt="ShokhjakhonRazokov" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=radical" width="450" height="400"  alt="ShokhjakhonRazokov" />
- 
 
