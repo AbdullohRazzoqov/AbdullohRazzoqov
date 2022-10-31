@@ -14,7 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="550" height="340" />
+<img align="right" alt="GIF" src="" width="550" height="340" />
 <br/>
 
 - I'm flutter developer from Uzbekistan 🇺🇿</h3>
