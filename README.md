@@ -16,28 +16,21 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="550" height="340" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="550" height="337" />
 
 <br/>
 
 - I'm flutter developer from Uzbekistan 🇺🇿</h3>
 
 - 🔭 I’m currently working on My project
-- 
 - 🌱 I’m currently learning Flutter and Node js backend
-- 
 - 👯 I’m looking to collaborate on Flutter project
-- 
 - 💬 Ask me about Flutter
-- 
 - 📫 How to reach me: 
-- 
 - 😄 Pronouns: …
-- 
 - ⚡ Fun fact: I'm 21, but Everyone thinks that I'm 23
 
 
-<br/>
 <br/>
 <br/>
 
@@ -57,7 +50,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 ![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -66,21 +58,23 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 
 
-![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
+
+  <br>
   <br>
 
 
+## ⚡ Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
 
- <br>
- <br>
- <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
+ 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
+
   
 
 
