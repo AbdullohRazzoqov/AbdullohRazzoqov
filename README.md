@@ -97,6 +97,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 ## GitHub Profile Trophy 🏆
 
-<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="ShokhjakhonRazokov" />
+<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=ShokhjakhonRazokov&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="ShokhjakhonRazokov" />
  </h1>
 
