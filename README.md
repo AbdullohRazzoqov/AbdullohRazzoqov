@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Telegram Badge](https://img.shields.io/badge/Shohjahon-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abdulloh2939)](https://t.me/abdulloh2939) 
+[![Telegram Badge](https://img.shields.io/badge/Shohjahon-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/razokov_sh)](https://t.me/razokov_sh) 
 [![Instagram Badge](https://img.shields.io/badge/-@razokov___-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/razokov___/)](https://www.instagram.com/razokov___/)
 
 <br/>
