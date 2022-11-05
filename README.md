@@ -3,16 +3,18 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-<br/>
-
 <br/>
 
 [![Telegram Badge](https://img.shields.io/badge/Shohjahon-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abdulloh2939)](https://t.me/abdulloh2939) 
 [![Instagram Badge](https://img.shields.io/badge/-@razokov___-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/razokov___/)](https://www.instagram.com/razokov___/)
 
 <br/>
+
+## Hi, I'm Shahjakhan Razakov, a Flutter developer. My passion for software is dreaming up ideas and realizing them with elegant interfaces. I pay close  attention to the experience, architecture, and code quality of the things I build. <br/> <br/> I am also an open source enthusiast and servant. I have learned a lot from the open source community, and I enjoy collaborating and sharing knowledge  through open source. That's why I give permission to use all my projects.
+
+<br/>
+
+
 
 <h1 align="left">👨🏻‍💻 About Me:</h1>
 
