@@ -5,34 +5,10 @@
 
 <br/>
 
-[![Telegram Badge](https://img.shields.io/badge/Shohjahon-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/razokov_sh)](https://t.me/razokov_sh) 
-[![Instagram Badge](https://img.shields.io/badge/-@razokov___-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/razokov___/)](https://www.instagram.com/razokov___/)
-
-<br/>
-
 ## Hi, I'm Shahjakhan Razakov, a Flutter developer. My passion for software is dreaming up ideas and realizing them with elegant interfaces. I pay close  attention to the experience, architecture, and code quality of the things I build. <br/> <br/> I am also an open source enthusiast and servant. I have learned a lot from the open source community, and I enjoy collaborating and sharing knowledge  through open source. That's why I give permission to use all my projects.
 
 <br/>
 
-
-
-<h1 align="left">👨🏻‍💻 About Me:</h1>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="280" />
-
-<br/>
-
-- I'm flutter developer from Uzbekistan 🇺🇿</h3>
-- 🔭 I’m currently working on My project
-- 🌱 I’m currently learning Flutter and Node js backend
-- 👯 I’m looking to collaborate on Flutter project
-- 💬 Ask me about Flutter
-- 📫 How to reach me: 
-- 😄 Pronouns: …
-- ⚡ Fun fact: I'm 21, but Everyone thinks that I'm 23
-
- 
-<br/>
 <br/>
 
 ## ⚡ Technologies
@@ -78,22 +54,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
 
-
-<br>
-<br>
-
-<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShokhjakhonRazokov&theme=dark" alt="ShokhjakhonRazokov" />
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
