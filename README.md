@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ShokhjakhonRazokov/ShokhjakhonRazokov/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/AbdullohRazzoqov/AbdullohRazzoqov/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -44,7 +44,7 @@
 ## ⚡ Github stats
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullohRazzoqov&show_icons=true&theme=radical" alt="AbdullohRazzoqov" />
   
 
 
@@ -52,7 +52,7 @@
 <br>
  
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShokhjakhonRazokov&show_icons=true&theme=radical" alt="ShokhjakhonRazokov" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullohRazzoqov&show_icons=true&theme=radical" alt="AbdullohRazzoqov" />
 
 <br>
 <br>
@@ -60,6 +60,6 @@
   
 ## GitHub Profile Trophy 🏆
 
-<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=ShokhjakhonRazokov&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="ShokhjakhonRazokov" />
+<h1 align="center"> <img  align="center" src="https://github-profile-trophy.vercel.app/?username=AbdullohRazzoqov&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy" alt="AbdullohRazzoqov" />
  </h1>
 
