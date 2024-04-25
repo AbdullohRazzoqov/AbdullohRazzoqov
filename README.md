@@ -1,5 +1,4 @@
 
-<img src="https://github.com/AbdullohRazzoqov/AbdullohRazzoqov/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
